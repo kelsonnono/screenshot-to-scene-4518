@@ -203,7 +203,6 @@ function AppHome() {
                   id="target-price"
                   type="number"
                   inputMode="numeric"
-                  min="1"
                   step="1"
                   placeholder="9500"
                   value={price}
